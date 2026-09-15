@@ -68,7 +68,7 @@ public class WeatherApp {
 
             String city = cityField.getText();
 
-            String apiKey = "026e2baebec52c3d4d6be29ca85087b0";
+            String apiKey = "your API";
 
             try {
 
